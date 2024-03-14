@@ -1,5 +1,5 @@
 {
-  "name": "BookSearch",
+  "name": "googlebooks-app",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -14,6 +14,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "apollo": "^2.34.0",
+    "apollo-react-hooks": "^0.0.1",
+    "apollo-server-express": "^3.13.0",
+    "graphql": "^16.8.1",
+    "if-env": "^1.0.4",
     "mongoose": "^8.2.1"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+
   }
 }

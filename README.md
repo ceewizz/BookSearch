@@ -53,6 +53,8 @@ WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 
 
+##### Screenshots
+![alt text](<Screenshot 2024-03-14 013705.png>) ![alt text](<Screenshot 2024-03-14 013732.png>) ![alt text](<Screenshot 2024-03-14 013658.png>)
 
 #### Credits
 Chris Huynh

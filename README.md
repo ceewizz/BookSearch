@@ -53,14 +53,10 @@ WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 
 
-<<<<<<< HEAD
-##### Links
-Github Repo: https://github.com/ceewizz/BookSearch
-Deploy App:   https://booksearchgoogle-066f7ac58bfd.herokuapp.com/
-=======
+
 #### Credits
 Chris Huynh
 
 ##### Links
 Github Repo: https://github.com/ceewizz/BookSearch
->>>>>>> 05823210a761b815b441d7e22ac4d6cd0a03995b
+Deploy App:   https://booksearchgoogle-066f7ac58bfd.herokuapp.com/
